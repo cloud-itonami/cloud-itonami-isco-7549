@@ -1,5 +1,5 @@
 (ns craftnec.governor-test
-  (:require [clojure.test :refer [deftest is testing]]
+  (:require [kotoba.test :refer [deftest is testing]]
             [craftnec.store :as store]
             [craftnec.advisor :as advisor]
             [craftnec.governor :as governor]))
